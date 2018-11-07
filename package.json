@@ -1,0 +1,22 @@
+{
+  "name": "evt-qrcode-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "everitoken",
+    "evt"
+  ],
+  "author": "Ceeji Cheng",
+  "license": "ISC",
+  "dependencies": {
+    "evtjs": "^4.0.4",
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "node-hid": "^0.7.3",
+    "secp256k1": "^3.5.0"
+  }
+}
